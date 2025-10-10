@@ -461,7 +461,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("@umamohan.bsky.social", "_blank");
+          window.open("https://bsky.app/profile/umamohan.bsky.social", "_blank");
         },
       },{
         id: 'social-email',
@@ -475,7 +475,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://linkedin.com/in/umarmohan", "_blank");
+          window.open("https://www.linkedin.com/in/umarmohan", "_blank");
         },
       },{
         id: 'social-scholar',
