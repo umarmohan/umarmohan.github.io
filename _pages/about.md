@@ -27,6 +27,6 @@ latest_posts:
   limit:  # leave blank to include all the blog posts
 ---
 
-I am currently a postdoctoral fellow in the Functional Neurosurgery Section at the NIH (NINDS). My research investigates how we can optimize direct electrical brain stimulation to modulate specific neural patterns underlying memory and attention.
+I am currently a postdoctoral fellow in Functional Neurosurgery Section of Kareem Zaghloul at the NIH (NINDS). My research investigates how we can optimize direct electrical brain stimulation to modulate specific neural patterns underlying memory and attention.
 
 Previously, I received my PhD in Biomedical Engineering in 2021 from Columbia University, where I worked with Josh Jacobs. Prior to graduate school, I studied Biomedical Engineering and Applied Math and Statistics at Johns Hopkins, where I was also a research assistant in Ernst Niebur and Angelo All’s labs.
