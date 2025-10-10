@@ -2,15 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral fellow, NIH/NINDS
 
 profile:
   align: right
   image: uma_headshot.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>NIH/NINDS</p>
-    <p>Bethesda, MD</p>
+  more_info: 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
